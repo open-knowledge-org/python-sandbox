@@ -2,7 +2,7 @@ import urllib2
 import re
 
 #connect to a URL
-url = "http://www.mioto.com.br";
+url = "http://www.google.com.br";
 website = urllib2.urlopen(url)
 
 #read html code
